@@ -1,4 +1,3 @@
-Tentu! Berikut versi singkat dalam Bahasa Indonesia dan Inggris yang bisa kamu taruh di `README.md`:
 
 ---
 
